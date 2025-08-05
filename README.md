@@ -107,7 +107,9 @@ Pay rate:            $27.44
 ## License
 
 This project is licensed under the [MIT License](LICENSE).  
-Feel free to modify, reuse, or distribute with proper attribution.
+This project is for academic and personal educational use only.
+© 2025 Sauel Almonte. All rights reserved.
+Do not redistribute or use commercially without explicit permission.
 
 ---
 
